@@ -2,6 +2,8 @@ SMU MediEssential – E-Commerce Platform for Medical Supplies
 SMU MediEssential is a clean, modern, and user-friendly e-commerce platform designed to meet the needs of healthcare professionals, medical students, and general consumers seeking high-quality medical equipment and supplies. The platform ensures a seamless shopping experience by combining professional design with essential features tailored to the healthcare industry.
 
 🔑 Key Features
+
+
 🏠 Homepage
 A welcoming banner with the tagline: "We Sell Quality Medical Equipment"
 Eye-catching promotional content (e.g., "Flat 40% OFF on premium brands")
