@@ -1,0 +1,130 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body{
+    overflow-x:hidden;
+    max-width: 100%;
+    margin:0;
+    margin-bottom: 150px;
+
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Andika';
+    
+}
+#bg{
+    background-image: url(https://source.unsplash.com/featured/?men,fashion,sneakers);
+    /*https://images.unsplash.com/photo-1549942686-486aa99d2223*/
+    background-repeat: no-repeat;
+    min-height:600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    text-align: center;
+}
+#banner_content {
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+.carousel-inner img {
+    width: 100%;
+    height:100%;
+}
+.footer{
+    position: absolute;
+    margin-top: 50px;
+    background-color: #141414;
+    min-height:150px;
+    padding-top:40px;
+    width: 100%;
+   
+    bottom: 0;
+    
+}
+.container  a {
+    color:black;
+}
+.container a:hover{
+    color:grey;
+    
+}
+#size{
+    max-height:200px;
+}
+.footer {
+    position: relative; /* Change from absolute to relative */
+    background-color: #141414;
+    min-height: 150px;
+    padding-top: 40px;
+    width: 100%;
+    margin-top: auto; /* Push the footer to the bottom */
+    bottom: 0;
+}
+html, body {
+    height: 100%; /* Ensure the page takes up the full height of the viewport */
+    margin: 0; /* Remove default margin */
+    display: flex;
+    flex-direction: column; /* Use flexbox for layout */
+}
+
+body {
+    flex: 1; /* Allow the body to grow and take up available space */
+}
+
+.footer {
+    margin-top: auto; /* Push the footer to the bottom */
+    background-color: #141414;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
+.chat-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .chatbox {
+    height: 300px;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+  }
+  
+  .chatbox-message {
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    border-radius: 15px;
+    max-width: 80%;
+    clear: both;
+  }
+  
+  .chatbox-message.bot {
+    background-color: #e9f7fe;
+    float: left;
+  }
+  
+  .chatbox-message.user {
+    background-color: #f1f1f1;
+    float: right;
+  }
+  
+  .chatbox-input input {
+    border-radius: 5px;
+  }
+  
+  .chatbox-input button {
+    border-radius: 5px;
+  }
+  
