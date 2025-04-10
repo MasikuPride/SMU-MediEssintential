@@ -67,3 +67,5 @@ Email Integration: PHPMailer for transactional emails (e.g., signup verification
 
 🎯 Project Purpose
 SMU MediEssential is built to deliver convenience, affordability, and quality to its users. From secure user authentication to responsive product browsing and smooth payment processing, it offers a complete solution for purchasing medical equipment online.
+Here  are ascreenshots:
+![Screenshot (44)](https://github.com/user-attachments/assets/ff1a6e94-0766-4d77-a93d-2e396e79d8af)
